@@ -1,9 +1,14 @@
 GEM
+<<<<<<< HEAD
   remote: https://www.rubygems.org/
   specs:
     EmojifyRspecFormatter (0.1.5)
       colorize
       rspec (~> 3.0)
+=======
+  remote: https://rubygems.org/
+  specs:
+>>>>>>> 444628c095d81645d5c880f0632c27f6e97d3969
     addressable (2.4.0)
     bcrypt (3.1.11)
     bcrypt-ruby (3.1.5)
@@ -15,7 +20,10 @@ GEM
       rack (>= 1.0.0)
       rack-test (>= 0.5.4)
       xpath (~> 2.0)
+<<<<<<< HEAD
     colorize (0.7.7)
+=======
+>>>>>>> 444628c095d81645d5c880f0632c27f6e97d3969
     data_mapper (1.2.0)
       dm-aggregates (~> 1.2.0)
       dm-constraints (~> 1.2.0)
@@ -85,7 +93,10 @@ GEM
       rack
     rack-test (0.6.3)
       rack (>= 1.0)
+<<<<<<< HEAD
     rake (11.2.2)
+=======
+>>>>>>> 444628c095d81645d5c880f0632c27f6e97d3969
     rspec (3.4.0)
       rspec-core (~> 3.4.0)
       rspec-expectations (~> 3.4.0)
@@ -119,12 +130,18 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+<<<<<<< HEAD
   EmojifyRspecFormatter
+=======
+>>>>>>> 444628c095d81645d5c880f0632c27f6e97d3969
   capybara
   data_mapper
   database_cleaner
   dm-postgres-adapter
+<<<<<<< HEAD
   rake
+=======
+>>>>>>> 444628c095d81645d5c880f0632c27f6e97d3969
   rspec
   rspec-sinatra
   sinatra

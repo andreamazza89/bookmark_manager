@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 --color --format EmojifyRspecFormatter
+=======
+--color
+>>>>>>> 444628c095d81645d5c880f0632c27f6e97d3969
 --require spec_helper
