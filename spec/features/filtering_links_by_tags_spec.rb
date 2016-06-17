@@ -21,10 +21,3 @@ feature 'Filtering links by tag' do
   end
 
 end 
-
-
- # tags: [Tag.first_or_create(name: 'news')]
- # link_1.tags << tag_1
- #    link_1.save
- #    link_2.tags << tag_2
- #    link_2.save
